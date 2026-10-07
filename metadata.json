@@ -1,0 +1,6 @@
+{
+  "name": "Inducción SENA - Plataforma Interactiva Institucional",
+  "description": "Plataforma formativa interactiva para el proceso de inducción de aprendices del Servicio Nacional de Aprendizaje (SENA). Descubre la identidad institucional, símbolos, formación profesional integral, reglamento y bienestar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
